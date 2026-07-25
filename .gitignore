@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[oc]
+*.egg-info
+.venv/
+
+# ENV
+.env
+
+# App-generated state
+.chroma/
+output/
+*.log
+
+# IDE & System files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
